@@ -1,4 +1,5 @@
 #  IMDb Movie Review Sentiment Analysis (Bidirectional LSTM)
+---------------------------------------------------------------------
 
 A deep learning project that predicts whether a movie review is **Positive** or **Negative** using a **Bidirectional LSTM (BiLSTM)** model.
 This project uses the **IMDb dataset (50,000 reviews)** built directly into Keras.
