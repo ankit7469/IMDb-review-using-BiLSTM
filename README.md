@@ -6,7 +6,7 @@ This project uses the **IMDb dataset (50,000 reviews)** built directly into Kera
 
 ---
 
-##  Project Overview
+###  Project Overview
 
 This project performs **sentiment analysis** on movie reviews. The model learns emotional patterns from thousands of reviews and predicts the sentiment of new unseen text.
 
