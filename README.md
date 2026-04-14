@@ -1,4 +1,4 @@
-#  IMDb Movie Review Sentiment Analysis (Bidirectional LSTM)
+##  IMDb Movie Review Sentiment Analysis (Bidirectional LSTM)
 -------------------------------------------------------------------------------
 
 A deep learning project that predicts whether a movie review is **Positive** or **Negative** using a **Bidirectional LSTM (BiLSTM)** model.
